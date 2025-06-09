@@ -2,7 +2,9 @@ Le but est de dimensionner la chambre de combustion le col et la tuyère en se b
 Le détails des équations ici: https://fr.overleaf.com/read/bxnzmgbsnxyb#22b9eb 
 
 Pour tourner les bibliothèques suivantes sont nécessaire:
+
 thermochem, scipy, matplotlib, tkinter, numpy 
+
 quelque images de l'interface et des résultats:
 ![image](https://github.com/user-attachments/assets/d8996e7d-10bd-4a61-a2a5-62c31a803058)
 
