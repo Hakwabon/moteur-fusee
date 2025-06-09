@@ -1,5 +1,5 @@
 Le but est de dimensionner la chambre de combustion le col et la tuyère en se basant sur les équations de mécanique des fluides compressibles et sur les équations de thermochimie de flamme adiabatique. 
-Le détails des équations ici: https://fr.overleaf.com/read/bxnzmgbsnxyb#22b9eb \\
+Le détails des équations ici: https://fr.overleaf.com/read/bxnzmgbsnxyb#22b9eb \n
 Pour tourner les bibliothèques suivantes sont nécessaire:
 thermochem, scipy, matplotlib, tkinter, numpy 
 quelque images de l'interface et des résultats:
